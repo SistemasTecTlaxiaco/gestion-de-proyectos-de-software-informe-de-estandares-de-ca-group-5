@@ -6,8 +6,8 @@
 **Presenta:**
 - Felix Angel García García — 23620141
 - Diego Fidel Sosa Cruz — 23620086
-- Luis Alexis Morales Jose — 23620141
-- Daniel Alejandro Lopez Camarillo — 23620141
+- Luis Alexis Morales Jose — 23620053
+- Daniel Alejandro Lopez Camarillo — 23620038
 
 **Docente:** Roman Cruz Jose Alfredo
 
