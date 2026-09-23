@@ -5,7 +5,7 @@
 
 **Presenta:**
 - Felix Angel García García — 23620141
-- Diego Fidel Sosa Cruz — 23620084
+- Diego Fidel Sosa Cruz — 23620086
 - Luis Alexis Morales Jose — 23620141
 - Daniel Alejandro Lopez Camarillo — 23620141
 
